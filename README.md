@@ -41,8 +41,13 @@ It is important and meaningful code that we use daily when using HTML
 display block is the selected element that takes upp the entire width of its container. display inline is the element that will allow otther elements to appear along the same line.
 
 3. What are the 4 areas of the box model?
+Boder
+Margin
+content
+Padding
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+Vertical axis
 
 5. Explain why git is valuable to a team of developers.
 
